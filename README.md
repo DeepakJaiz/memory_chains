@@ -5,8 +5,14 @@ In this lesson we learn how memory work in langchain. By default, LLMs are state
 Next we learn about Chains. Chain used to combine the LLM together with prompt to carry a sequence of operation.<br/>
 In this we learn three chains.<br/>
 - SimpleSequentialChain.
+![Screenshot (1707)](https://github.com/DeepakJaiz/memory_chains/assets/120568685/2dc4b842-7d23-470b-9c2e-4088b0d0fdc5)
+
 - SequentialChain
+![Screenshot (1708)](https://github.com/DeepakJaiz/memory_chains/assets/120568685/6ea160a1-9771-4d15-8d6a-43b07b7cb477)
+
 - Router Chain
+
+![Screenshot (1709)](https://github.com/DeepakJaiz/memory_chains/assets/120568685/bc8476d4-23d8-44ab-a345-0aacedede115)
 
 ### Reference
 
